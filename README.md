@@ -7,4 +7,4 @@
 
     The chatbot is trained using yml file and everytime when a request is given by a student the result is given based on the previous training model.
     
-![Model Train](https://github.com/samjones310/Student_Assist_Chatbot/blob/master/Model_train.JPG)
+![Model Train](https://github.com/samjones310/Student_Assist_Chatbot/blob/master/Train.JPG)
